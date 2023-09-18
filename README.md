@@ -33,8 +33,5 @@ Feel free to reach out if you have any questions or would like to collaborate on
 
 ### Author
 
-[Your Name]
+Edagotti Naresh
 
-### License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
